@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/SergeySapr/urlshortnener/issues"
   },
-  "homepage": "https://github.com/SergeySapr/urlshortnener#readme"
+  "homepage": "https://github.com/SergeySapr/urlshortnener#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9",
+    "valid-url": "^1.0.9",
+    "validator": "^5.6.0"
+  }
 }
