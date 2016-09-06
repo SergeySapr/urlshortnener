@@ -1,0 +1,24 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "URL shortener service",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeySapr/urlshortnener.git"
+  },
+  "keywords": [
+    "URL",
+    "API"
+  ],
+  "author": "Sergey Saprykin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeySapr/urlshortnener/issues"
+  },
+  "homepage": "https://github.com/SergeySapr/urlshortnener#readme"
+}
